@@ -1,6 +1,7 @@
-# RC Web Phone Build demo
+# RingCentral Web Phone UMD demo
 
-This is a demo to build RingCentral Web Phone for browser.
+This is a demo to use RingCentral Web Phone for browser. Just in case you don't
+want to use any bundling tools such as webpack.
 
 It could be as simple as:
 
